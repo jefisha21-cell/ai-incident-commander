@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Commander — Action Center</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="layout">
+
+  <aside class="sidebar">
+    <div class="sidebar-brand">
+      <div class="brand-icon">🛡️</div>
+      <h1>AI Incident<br>Commander</h1>
+    </div>
+    <nav>
+      <div class="nav-label">Navigation</div>
+      <a href="/"><span class="nav-icon">📤</span> Upload Data</a>
+      <a href="/dashboard"><span class="nav-icon">📊</span> Dashboard</a>
+      <a class="active" href="/action"><span class="nav-icon">⚡</span> Action Center</a>
+    </nav>
+    <div class="sidebar-footer">
+      <span class="status-dot"></span>Systems Online
+    </div>
+  </aside>
+
+  <main class="main-content">
+
+    <header class="topbar">
+      <div class="topbar-left">
+        <h2>Action Center</h2>
+        <p class="tagline">Review, dispatch, or dismiss the selected incident.</p>
+      </div>
+      <div class="topbar-right">
+        <div class="greeting-badge" id="greeting"></div>
+        <button id="themeToggle" class="btn theme-toggle">☀️ Light</button>
+      </div>
+    </header>
+
+    <!-- Incident Hero -->
+    <div id="incidentHero" class="incident-detail-hero">
+      <div id="incidentDetail"></div>
+    </div>
+
+    <div class="action-grid">
+      <!-- Recommended Actions -->
+      <div class="card">
+        <div class="card-header">
+          <h3>⚡ Recommended Actions</h3>
+          <span class="card-badge" id="actionCount">—</span>
+        </div>
+        <ul id="actionList" class="action-list"></ul>
+      </div>
+
+      <!-- Nearby Resources -->
+      <div class="card">
+        <div class="card-header">
+          <h3>🚒 Nearby Resources</h3>
+          <span class="card-badge" id="resourceCount">—</span>
+        </div>
+        <div id="resourceList"></div>
+      </div>
+    </div>
+
+    <!-- Decision Bar -->
+    <div class="decision-bar">
+      <button id="acceptBtn" class="btn primary">✅ Accept &amp; Dispatch</button>
+      <button id="rejectBtn" class="btn danger">❌ Mark as False</button>
+      <p id="decisionMsg" class="status"></p>
+    </div>
+
+  </main>
+</div>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

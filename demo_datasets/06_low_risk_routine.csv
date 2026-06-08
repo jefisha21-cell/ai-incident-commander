@@ -1,0 +1,16 @@
+incident_id,location,issue_reported,caller_type,time,call_duration,incident_type,risk_score
+INC501,Block A,Small fire in kitchen extinguished by resident,citizen,14:00,5,WILDFIRE,28
+INC502,Block B,Minor puddle on road near park after rain,citizen,10:30,4,FLOOD,22
+INC503,Block C,Faint gas smell near stove possible small leak,citizen,12:15,6,GAS LEAK,35
+INC504,Block D,Garden wall of old house crumbled no injuries,citizen,15:45,5,BUILDING COLLAPSE,30
+INC505,Block E,Street light out in one lane only no danger,citizen,19:00,3,POWER OUTAGE,20
+INC506,Block F,Minor fender bender two cars no injuries,citizen,09:30,4,TRAFFIC INCIDENT,18
+INC507,Block G,Elderly man dizzy feeling unwell wants checkup,citizen,11:00,5,MEDICAL EMERGENCY,32
+INC508,Block H,Small bonfire in open field getting big,citizen,16:20,6,WILDFIRE,34
+INC509,Block I,Drain overflow causing wet pavement no flood,citizen,08:45,4,FLOOD,25
+INC510,Block J,Gas cylinder smell from kitchen no flames,citizen,13:10,5,GAS LEAK,33
+INC511,Block K,Crack in old compound wall no one hurt,citizen,10:00,4,BUILDING COLLAPSE,27
+INC512,Block L,Single home power trip due to overload,citizen,18:30,3,POWER OUTAGE,19
+INC513,Block M,Slow traffic due to vehicle breakdown on lane,citizen,08:00,4,TRAFFIC INCIDENT,20
+INC514,Block N,Child with minor fever parents want ambulance,citizen,10:20,5,MEDICAL EMERGENCY,29
+INC515,Block O,Dry leaves caught fire small area contained,citizen,15:00,5,WILDFIRE,26

@@ -1,0 +1,21 @@
+incident_id,location,issue_reported,caller_type,time,call_duration,incident_type,risk_score
+INC301,Sector 1,आग लगी है घर में धुआं बहुत है,citizen,22:00,15,WILDFIRE,91
+INC302,Sector 2,बाढ़ का पानी घर में घुस गया है,citizen,06:30,20,FLOOD,87
+INC303,Sector 3,गैस रिसाव की तेज गंध आ रही है,officer,19:10,14,GAS LEAK,88
+INC304,Sector 4,इमारत गिर गई लोग फंसे हैं मलबे में,citizen,15:00,19,BUILDING COLLAPSE,94
+INC305,Sector 5,बिजली पूरी तरह बंद है घंटों से,citizen,21:30,10,POWER OUTAGE,60
+INC306,Sector 6,सड़क दुर्घटना में कई लोग घायल हैं,citizen,08:00,13,TRAFFIC INCIDENT,72
+INC307,Sector 7,चोट लगी है तुरंत एम्बुलेंस भेजो,citizen,11:30,8,MEDICAL EMERGENCY,77
+INC308,Sector 8,Massive fire blaze near factory workers panicking,citizen,23:00,16,WILDFIRE,93
+INC309,Sector 9,Flash flood rising water near colony fast,citizen,05:30,22,FLOOD,89
+INC310,Sector 10,Toxic gas leak chemical fumes spreading,officer,17:20,17,GAS LEAK,90
+INC311,Sector 11,पुरानी इमारत का हिस्सा टूट कर गिरा,citizen,13:00,18,BUILDING COLLAPSE,83
+INC312,Sector 12,Electric grid failure power cut in all blocks,officer,20:00,9,POWER OUTAGE,62
+INC313,Sector 13,टक्कर हुई सड़क पर जाम लगा है,citizen,18:00,11,TRAFFIC INCIDENT,74
+INC314,Sector 14,Heart attack patient unconscious send help,citizen,09:00,9,MEDICAL EMERGENCY,80
+INC315,Sector 15,जंगल में आग लगी है तेजी से फैल रही है,citizen,16:15,13,WILDFIRE,85
+INC316,Sector 16,नदी का पानी बढ़ रहा है गांव खतरे में,citizen,07:00,16,FLOOD,82
+INC317,Sector 17,Gas pipe rupture near residential building dangerous,automated,02:10,20,GAS LEAK,92
+INC318,Sector 18,मकान ढह गया कई लोग अंदर फंसे हैं,citizen,14:30,21,BUILDING COLLAPSE,91
+INC319,Sector 19,करंट वाली लाइन गिरी खतरा है,officer,01:40,8,POWER OUTAGE,58
+INC320,Sector 20,Accident on highway multiple vehicles involved,citizen,17:40,14,TRAFFIC INCIDENT,76

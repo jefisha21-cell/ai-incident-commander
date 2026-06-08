@@ -1,0 +1,21 @@
+incident_id,location,issue_reported,caller_type,time,call_duration
+INC201,Zone A,Fire breaking out near petrol station with heavy smoke,citizen,22:45,20
+INC202,Zone B,Road is completely under water flooding everywhere,citizen,06:15,18
+INC203,Zone C,Suspicious gas smell near apartments residents scared,officer,14:30,15
+INC204,Zone D,Roof of old school building caved in students inside,citizen,11:20,22
+INC205,Zone E,All lights off in the area power gone,citizen,20:10,8
+INC206,Zone F,Two trucks collided on highway people injured badly,citizen,09:05,14
+INC207,Zone G,Man fell unconscious on street needs ambulance now,citizen,13:40,9
+INC208,Zone H,Blaze spreading through dry bushes near homes fast,citizen,18:55,17
+INC209,Zone I,Heavy rain caused waterlogging streets impassable,citizen,05:00,12
+INC210,Zone J,Fumes from factory making workers dizzy and sick,automated,16:20,13
+INC211,Zone K,Wall of old structure collapsed suddenly debris on road,citizen,10:30,16
+INC212,Zone L,Entire colony without electricity since last night,citizen,23:30,7
+INC213,Zone M,Car rolled over on flyover traffic completely jammed,citizen,17:45,11
+INC214,Zone N,Child having seizure needs immediate medical attention,citizen,08:15,10
+INC215,Zone O,Smoke rising from behind warehouse area spreading,citizen,21:00,14
+INC216,Zone P,River overflow flooding agricultural fields rapidly,officer,04:50,19
+INC217,Zone Q,Pipe burst at gas plant workers reported strong leak,automated,15:35,18
+INC218,Zone R,Building under construction suddenly collapsed,citizen,12:10,21
+INC219,Zone S,Power lines down sparking street lights flickering,officer,01:20,9
+INC220,Zone T,Bike and truck collision on main road casualty seen,citizen,07:40,12

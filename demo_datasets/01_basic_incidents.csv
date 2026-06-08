@@ -1,0 +1,21 @@
+incident_id,location,issue_reported,caller_type,time,call_duration,incident_type,risk_score
+INC001,Sector 14,Massive fire near market with heavy smoke spreading,citizen,22:10,18,WILDFIRE,92
+INC002,River Road,Flood water entered houses and roads are blocked,citizen,06:40,24,FLOOD,86
+INC003,Industrial Area,Gas leak reported from chemical plant near workers,officer,19:25,16,GAS LEAK,89
+INC004,Old Town,Building collapse with people trapped under debris,citizen,15:30,20,BUILDING COLLAPSE,95
+INC005,Grid Station,Power outage in multiple blocks affecting hospital,officer,21:45,12,POWER OUTAGE,63
+INC006,Highway 8,Major traffic accident with multiple injuries reported,citizen,08:20,15,TRAFFIC INCIDENT,74
+INC007,Central Park,Medical emergency heart attack elderly man collapsed,citizen,11:50,9,MEDICAL EMERGENCY,79
+INC008,Sector 3,Large blaze spreading fast near residential area,citizen,23:05,13,WILDFIRE,90
+INC009,Sector 9,Flood water rising rapidly near schools,citizen,05:55,19,FLOOD,88
+INC010,Plant 2,Strong smell of toxic gas leak near factory gate,officer,17:40,14,GAS LEAK,87
+INC011,Downtown,Bridge debris and collapse risk is very high,citizen,13:10,17,BUILDING COLLAPSE,84
+INC012,Sector 22,Electric line trip and complete power failure,officer,20:05,10,POWER OUTAGE,61
+INC013,Ring Road,Severe collision causing traffic jam ambulance needed,citizen,18:10,14,TRAFFIC INCIDENT,76
+INC014,Sector 17,Patient unconscious send ambulance immediately,citizen,09:20,8,MEDICAL EMERGENCY,78
+INC015,Sector 11,Smoke and blaze spreading near warehouse district,citizen,16:30,11,WILDFIRE,82
+INC016,Riverside,Water overflow flood alert in low lying area,citizen,07:15,12,FLOOD,80
+INC017,Factory Belt,Toxic gas leak from large storage tank overnight,officer,02:20,16,GAS LEAK,91
+INC018,Block C,Old building collapsed rescue team needed urgently,citizen,14:45,18,BUILDING COLLAPSE,90
+INC019,East Grid,Electricity completely off for several hours now,citizen,01:50,7,POWER OUTAGE,57
+INC020,Metro Junction,Multiple vehicle accident causing heavy road jam,citizen,17:55,12,TRAFFIC INCIDENT,73

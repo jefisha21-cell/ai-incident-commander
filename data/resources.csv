@@ -1,0 +1,61 @@
+incident_id,resource_type,status,arrival_time_min
+INC1,Fire Truck,Available,6
+INC1,Water Tender,Busy,9
+INC1,Rescue Unit,Available,8
+INC2,Boat Team,Available,7
+INC2,Rescue Van,Available,10
+INC2,Medical Team,Busy,12
+INC3,Hazard Team,Available,5
+INC3,Fire Support,Busy,11
+INC3,Police Unit,Available,7
+INC4,Urban Rescue,Available,6
+INC4,Crane Unit,Busy,14
+INC4,Ambulance,Available,5
+INC5,Electrical Team,Available,8
+INC5,Grid Support Van,Busy,12
+INC5,Police Patrol,Available,10
+INC6,Traffic Police,Available,4
+INC6,Ambulance,Busy,7
+INC6,Tow Truck,Available,9
+INC7,Ambulance,Available,3
+INC7,Medical Response Unit,Available,6
+INC7,Police Escort,Busy,8
+INC8,Fire Truck,Available,5
+INC8,Water Tender,Available,7
+INC8,Rescue Unit,Busy,9
+INC9,Boat Team,Available,8
+INC9,Rescue Van,Busy,11
+INC9,Medical Team,Available,10
+INC10,Hazard Team,Available,4
+INC10,Fire Support,Available,8
+INC10,Police Unit,Busy,9
+INC11,Urban Rescue,Available,7
+INC11,Crane Unit,Available,13
+INC11,Ambulance,Busy,6
+INC12,Electrical Team,Busy,9
+INC12,Grid Support Van,Available,10
+INC12,Police Patrol,Available,8
+INC13,Traffic Police,Available,5
+INC13,Ambulance,Available,6
+INC13,Tow Truck,Busy,11
+INC14,Ambulance,Available,4
+INC14,Medical Response Unit,Busy,9
+INC14,Police Escort,Available,7
+INC15,Fire Truck,Available,6
+INC15,Water Tender,Busy,10
+INC15,Rescue Unit,Available,9
+INC16,Boat Team,Available,7
+INC16,Rescue Van,Available,8
+INC16,Medical Team,Busy,12
+INC17,Hazard Team,Available,5
+INC17,Fire Support,Busy,9
+INC17,Police Unit,Available,7
+INC18,Urban Rescue,Available,6
+INC18,Crane Unit,Busy,13
+INC18,Ambulance,Available,5
+INC19,Electrical Team,Available,8
+INC19,Grid Support Van,Busy,11
+INC19,Police Patrol,Available,9
+INC20,Traffic Police,Available,5
+INC20,Ambulance,Busy,8
+INC20,Tow Truck,Available,10

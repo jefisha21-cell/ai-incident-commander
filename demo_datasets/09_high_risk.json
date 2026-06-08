@@ -1,0 +1,12 @@
+[
+  {"incident_id":"INC701","location":"Critical Zone 1","issue_reported":"Massive uncontrolled wildfire near densely populated colony","caller_type":"officer","time":"03:00","call_duration":30,"incident_type":"WILDFIRE","risk_score":98},
+  {"incident_id":"INC702","location":"Critical Zone 2","issue_reported":"Flash flood breached dam water rushing toward city","caller_type":"automated","time":"02:30","call_duration":35,"incident_type":"FLOOD","risk_score":97},
+  {"incident_id":"INC703","location":"Critical Zone 3","issue_reported":"Massive gas explosion at industrial plant multiple casualties","caller_type":"officer","time":"01:45","call_duration":28,"incident_type":"GAS LEAK","risk_score":99},
+  {"incident_id":"INC704","location":"Critical Zone 4","issue_reported":"High rise building collapsed entire wing down people trapped","caller_type":"officer","time":"04:10","call_duration":32,"incident_type":"BUILDING COLLAPSE","risk_score":99},
+  {"incident_id":"INC705","location":"Critical Zone 5","issue_reported":"Hospital backup power failed critical patients on ventilator","caller_type":"automated","time":"00:20","call_duration":15,"incident_type":"POWER OUTAGE","risk_score":91},
+  {"incident_id":"INC706","location":"Critical Zone 6","issue_reported":"Bus fell off bridge into river multiple people critical","caller_type":"citizen","time":"23:50","call_duration":24,"incident_type":"TRAFFIC INCIDENT","risk_score":95},
+  {"incident_id":"INC707","location":"Critical Zone 7","issue_reported":"Mass casualty event explosion injured dozens need triage","caller_type":"officer","time":"22:40","call_duration":20,"incident_type":"MEDICAL EMERGENCY","risk_score":97},
+  {"incident_id":"INC708","location":"Critical Zone 8","issue_reported":"Wildfire jumped firebreak heading toward fuel depot now","caller_type":"officer","time":"03:30","call_duration":25,"incident_type":"WILDFIRE","risk_score":96},
+  {"incident_id":"INC709","location":"Critical Zone 9","issue_reported":"Flood waters breached levee entire district at risk","caller_type":"automated","time":"04:00","call_duration":29,"incident_type":"FLOOD","risk_score":94},
+  {"incident_id":"INC710","location":"Critical Zone 10","issue_reported":"Chemical plant fire toxic smoke cloud spreading toward city","caller_type":"officer","time":"02:00","call_duration":27,"incident_type":"GAS LEAK","risk_score":98}
+]

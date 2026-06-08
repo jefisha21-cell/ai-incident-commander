@@ -1,0 +1,17 @@
+[
+  {"incident_id":"INC001","location":"Sector 14","issue_reported":"Massive fire near market with heavy smoke spreading","caller_type":"citizen","time":"22:10","call_duration":18,"incident_type":"WILDFIRE","risk_score":92},
+  {"incident_id":"INC002","location":"River Road","issue_reported":"Flood water entered houses and roads are blocked","caller_type":"citizen","time":"06:40","call_duration":24,"incident_type":"FLOOD","risk_score":86},
+  {"incident_id":"INC003","location":"Industrial Area","issue_reported":"Gas leak reported from chemical plant near workers","caller_type":"officer","time":"19:25","call_duration":16,"incident_type":"GAS LEAK","risk_score":89},
+  {"incident_id":"INC004","location":"Old Town","issue_reported":"Building collapse with people trapped under debris","caller_type":"citizen","time":"15:30","call_duration":20,"incident_type":"BUILDING COLLAPSE","risk_score":95},
+  {"incident_id":"INC005","location":"Grid Station","issue_reported":"Power outage in multiple blocks affecting hospital","caller_type":"officer","time":"21:45","call_duration":12,"incident_type":"POWER OUTAGE","risk_score":63},
+  {"incident_id":"INC006","location":"Highway 8","issue_reported":"Major traffic accident with multiple injuries reported","caller_type":"citizen","time":"08:20","call_duration":15,"incident_type":"TRAFFIC INCIDENT","risk_score":74},
+  {"incident_id":"INC007","location":"Central Park","issue_reported":"Medical emergency heart attack elderly man collapsed","caller_type":"citizen","time":"11:50","call_duration":9,"incident_type":"MEDICAL EMERGENCY","risk_score":79},
+  {"incident_id":"INC008","location":"Sector 3","issue_reported":"Large blaze spreading fast near residential area","caller_type":"citizen","time":"23:05","call_duration":13,"incident_type":"WILDFIRE","risk_score":90},
+  {"incident_id":"INC009","location":"Sector 9","issue_reported":"Flood water rising rapidly near schools","caller_type":"citizen","time":"05:55","call_duration":19,"incident_type":"FLOOD","risk_score":88},
+  {"incident_id":"INC010","location":"Plant 2","issue_reported":"Strong smell of toxic gas leak near factory gate","caller_type":"officer","time":"17:40","call_duration":14,"incident_type":"GAS LEAK","risk_score":87},
+  {"incident_id":"INC011","location":"Downtown","issue_reported":"Bridge debris and collapse risk is very high","caller_type":"citizen","time":"13:10","call_duration":17,"incident_type":"BUILDING COLLAPSE","risk_score":84},
+  {"incident_id":"INC012","location":"Sector 22","issue_reported":"Electric line trip and complete power failure","caller_type":"officer","time":"20:05","call_duration":10,"incident_type":"POWER OUTAGE","risk_score":61},
+  {"incident_id":"INC013","location":"Ring Road","issue_reported":"Severe collision causing traffic jam ambulance needed","caller_type":"citizen","time":"18:10","call_duration":14,"incident_type":"TRAFFIC INCIDENT","risk_score":76},
+  {"incident_id":"INC014","location":"Sector 17","issue_reported":"Patient unconscious send ambulance immediately","caller_type":"citizen","time":"09:20","call_duration":8,"incident_type":"MEDICAL EMERGENCY","risk_score":78},
+  {"incident_id":"INC015","location":"Sector 11","issue_reported":"Smoke and blaze spreading near warehouse district","caller_type":"citizen","time":"16:30","call_duration":11,"incident_type":"WILDFIRE","risk_score":82}
+]

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Commander — Upload</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="layout">
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="sidebar-brand">
+      <div class="brand-icon">🛡️</div>
+      <h1>AI Incident<br>Commander</h1>
+    </div>
+    <nav>
+      <div class="nav-label">Navigation</div>
+      <a class="active" href="/"><span class="nav-icon">📤</span> Upload Data</a>
+      <a href="/dashboard"><span class="nav-icon">📊</span> Dashboard</a>
+      <a href="/action"><span class="nav-icon">⚡</span> Action Center</a>
+    </nav>
+    <div class="sidebar-footer">
+      <span class="status-dot"></span>Systems Online
+    </div>
+  </aside>
+
+  <!-- Main -->
+  <main class="main-content">
+
+    <header class="topbar">
+      <div class="topbar-left">
+        <h2>Upload &amp; Analyze</h2>
+        <p class="tagline">Smart triage and rapid response for critical incidents.</p>
+      </div>
+      <div class="topbar-right">
+        <div class="greeting-badge" id="greeting"></div>
+        <button id="themeToggle" class="btn theme-toggle">☀️ Light</button>
+      </div>
+    </header>
+
+    <!-- Overview Cards -->
+    <div class="overview-grid">
+      <div class="overview-card">
+        <div class="ov-icon blue">📋</div>
+        <div class="ov-label">Total Incidents</div>
+        <div class="ov-value" id="ovTotal">—</div>
+      </div>
+      <div class="overview-card">
+        <div class="ov-icon green">🎯</div>
+        <div class="ov-label">Model Accuracy</div>
+        <div class="ov-value" id="ovAccuracy">—</div>
+      </div>
+      <div class="overview-card">
+        <div class="ov-icon yellow">⏱️</div>
+        <div class="ov-label">Avg Response Time</div>
+        <div class="ov-value" id="ovSpeed">—</div>
+      </div>
+      <div class="overview-card">
+        <div class="ov-icon red">🚨</div>
+        <div class="ov-label">Active Alerts</div>
+        <div class="ov-value" id="ovAlerts">—</div>
+      </div>
+    </div>
+
+    <!-- Upload Card -->
+    <div class="card">
+      <div class="card-header">
+        <h3>Dataset Upload</h3>
+        <span class="card-badge">CSV / JSON</span>
+      </div>
+
+      <div class="upload-section">
+        <div>
+          <div id="dropZone" class="drop-zone">
+            <div class="drop-icon">📁</div>
+            <h3>Drop your files here</h3>
+            <p>Supports CSV and JSON incident datasets</p>
+            <input type="file" id="fileInput" accept=".csv,.json" multiple hidden>
+            <button id="chooseFileBtn" class="btn primary">Choose Files</button>
+            <p id="selectedFileName" class="hint" style="margin-top:12px;">No files selected</p>
+          </div>
+
+          <div class="upload-progress" id="uploadProgress" style="display:none;">
+            <div class="progress-label" id="progressLabel">Processing…</div>
+            <div class="progress-bar-wrap"><div class="progress-bar" id="progressBar"></div></div>
+          </div>
+
+          <div style="display:flex; align-items:center; gap:14px; margin-top:18px;">
+            <button id="uploadBtn" class="btn primary">🚀 Upload &amp; Analyze</button>
+            <div id="spinner" class="spinner hidden"></div>
+          </div>
+          <p id="statusMsg" class="status"></p>
+        </div>
+
+        <div class="upload-info-panel">
+          <h4>Expected Columns</h4>
+          <div class="info-item">
+            <span class="info-icon">🆔</span>
+            <div><strong>incident_id</strong><span>Unique identifier per row</span></div>
+          </div>
+          <div class="info-item">
+            <span class="info-icon">📍</span>
+            <div><strong>location</strong><span>Address or area name</span></div>
+          </div>
+          <div class="info-item">
+            <span class="info-icon">📝</span>
+            <div><strong>issue_reported</strong><span>Free-text description — feeds TF-IDF</span></div>
+          </div>
+          <div class="info-item">
+            <span class="info-icon">📞</span>
+            <div><strong>caller_type</strong><span>citizen / officer / automated</span></div>
+          </div>
+          <div class="info-item">
+            <span class="info-icon">🕐</span>
+            <div><strong>time</strong><span>HH:MM format</span></div>
+          </div>
+          <div class="info-item">
+            <span class="info-icon">⏱️</span>
+            <div><strong>call_duration</strong><span>Duration in seconds</span></div>
+          </div>
+          <div class="info-item">
+            <span class="info-icon">🏷️</span>
+            <div><strong>incident_type</strong><span>Optional — improves accuracy</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+</div>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

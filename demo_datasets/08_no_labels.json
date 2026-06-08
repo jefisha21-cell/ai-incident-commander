@@ -1,0 +1,17 @@
+[
+  {"incident_id":"INC601","location":"Alpha Zone","issue_reported":"Fire breaking out near petrol station with heavy smoke","caller_type":"citizen","time":"22:45","call_duration":20},
+  {"incident_id":"INC602","location":"Beta Zone","issue_reported":"Road is completely under water flooding everywhere","caller_type":"citizen","time":"06:15","call_duration":18},
+  {"incident_id":"INC603","location":"Gamma Zone","issue_reported":"Suspicious gas smell near apartments residents scared","caller_type":"officer","time":"14:30","call_duration":15},
+  {"incident_id":"INC604","location":"Delta Zone","issue_reported":"Roof of old school building caved in students inside","caller_type":"citizen","time":"11:20","call_duration":22},
+  {"incident_id":"INC605","location":"Epsilon Zone","issue_reported":"All lights off in the area power gone since morning","caller_type":"citizen","time":"20:10","call_duration":8},
+  {"incident_id":"INC606","location":"Zeta Zone","issue_reported":"Two trucks collided on highway people injured badly","caller_type":"citizen","time":"09:05","call_duration":14},
+  {"incident_id":"INC607","location":"Eta Zone","issue_reported":"Man fell unconscious on street needs ambulance now","caller_type":"citizen","time":"13:40","call_duration":9},
+  {"incident_id":"INC608","location":"Theta Zone","issue_reported":"Blaze spreading through dry bushes near homes fast","caller_type":"citizen","time":"18:55","call_duration":17},
+  {"incident_id":"INC609","location":"Iota Zone","issue_reported":"Heavy rain caused waterlogging streets impassable","caller_type":"citizen","time":"05:00","call_duration":12},
+  {"incident_id":"INC610","location":"Kappa Zone","issue_reported":"Fumes from factory making workers dizzy and sick","caller_type":"automated","time":"16:20","call_duration":13},
+  {"incident_id":"INC611","location":"Lambda Zone","issue_reported":"Wall of old structure collapsed suddenly debris on road","caller_type":"citizen","time":"10:30","call_duration":16},
+  {"incident_id":"INC612","location":"Mu Zone","issue_reported":"Entire colony without electricity since last night","caller_type":"citizen","time":"23:30","call_duration":7},
+  {"incident_id":"INC613","location":"Nu Zone","issue_reported":"Car rolled over on flyover traffic completely jammed","caller_type":"citizen","time":"17:45","call_duration":11},
+  {"incident_id":"INC614","location":"Xi Zone","issue_reported":"Child having seizure needs immediate medical attention","caller_type":"citizen","time":"08:15","call_duration":10},
+  {"incident_id":"INC615","location":"Omicron Zone","issue_reported":"Smoke rising from behind warehouse area spreading fast","caller_type":"citizen","time":"21:00","call_duration":14}
+]

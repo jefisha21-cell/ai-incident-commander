@@ -1,0 +1,31 @@
+incident_id,location,issue_reported,caller_type,time,call_duration,incident_type,risk_score
+INC101,North Zone,Wildfire spreading across dry forest uncontrolled,officer,03:15,22,WILDFIRE,96
+INC102,Lake District,Heavy flooding submerged vehicles on the road,citizen,07:30,17,FLOOD,83
+INC103,Chem Belt,Hazardous gas leak from industrial storage tank,automated,14:20,20,GAS LEAK,94
+INC104,South Block,Four storey building collapsed after tremor,citizen,10:40,25,BUILDING COLLAPSE,97
+INC105,Sub Station,Major power grid failure affecting three districts,officer,22:00,14,POWER OUTAGE,68
+INC106,Bypass Road,Three car pile up accident with person trapped,citizen,08:10,16,TRAFFIC INCIDENT,77
+INC107,Civil Hospital,Cardiac arrest patient needs emergency response,officer,12:05,10,MEDICAL EMERGENCY,85
+INC108,East Hills,Wildfire spotted near populated hillside colony,citizen,21:30,18,WILDFIRE,91
+INC109,Flood Plain,River bank breach flooding nearby villages,automated,05:10,30,FLOOD,93
+INC110,Oil Refinery,Toxic chemical fumes reported by plant workers,officer,16:45,19,GAS LEAK,90
+INC111,Heritage Lane,Heritage structure collapsed blocking main road,citizen,09:55,15,BUILDING COLLAPSE,80
+INC112,Main Grid,Power outage in hospital and schools area,officer,19:20,9,POWER OUTAGE,65
+INC113,Expressway,Fatal collision multiple vehicles injuries critical,automated,17:30,21,TRAFFIC INCIDENT,88
+INC114,Senior Home,Multiple elderly residents need urgent medical help,citizen,11:15,12,MEDICAL EMERGENCY,82
+INC115,Dry Valley,Fire near agricultural land rapidly spreading,citizen,15:50,14,WILDFIRE,78
+INC116,Canal Area,Canal breach flooding farmland and a village,citizen,06:00,23,FLOOD,87
+INC117,Port Area,Leaked gas near dock ignition risk is high,officer,23:10,17,GAS LEAK,92
+INC118,Market Square,Overcrowded building roof collapsed injuries reported,citizen,13:35,20,BUILDING COLLAPSE,86
+INC119,Western Grid,Complete blackout in western sector for hours,automated,00:40,8,POWER OUTAGE,60
+INC120,City Center,Rush hour accident ambulance cannot reach site,citizen,18:20,13,TRAFFIC INCIDENT,75
+INC121,Hilltop,Blazing fire on hilltop visible from three km,citizen,20:45,16,WILDFIRE,89
+INC122,Low Lands,Flash flood warning low land homes evacuated,officer,04:30,28,FLOOD,91
+INC123,Factory 5,Gas pipe rupture near boiler room workers fleeing,automated,15:05,22,GAS LEAK,95
+INC124,Tower Block,Tower crane collapsed on adjacent building,officer,11:00,24,BUILDING COLLAPSE,93
+INC125,Grid Alpha,Transformer explosion caused area power cut,automated,02:55,11,POWER OUTAGE,70
+INC126,Overpass,Bus collision on overpass several passengers hurt,citizen,08:50,18,TRAFFIC INCIDENT,79
+INC127,Trauma Center,Multiple trauma patients need immediate triage,officer,13:20,15,MEDICAL EMERGENCY,88
+INC128,Forest Edge,Wildfire smoke visible from residential areas,citizen,17:10,13,WILDFIRE,76
+INC129,Riverside Colony,Rising flood waters near colony near river,citizen,05:45,20,FLOOD,84
+INC130,Depot Road,Fuel tanker leak toxic fumes spreading fast,officer,21:00,25,GAS LEAK,96

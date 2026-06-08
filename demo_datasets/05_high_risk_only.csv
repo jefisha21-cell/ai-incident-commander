@@ -1,0 +1,11 @@
+incident_id,location,issue_reported,caller_type,time,call_duration,incident_type,risk_score
+INC401,Critical Zone 1,Massive uncontrolled wildfire near densely populated colony,officer,03:00,30,WILDFIRE,98
+INC402,Critical Zone 2,Flash flood breached dam water rushing toward city,automated,02:30,35,FLOOD,97
+INC403,Critical Zone 3,Massive gas explosion at industrial plant multiple casualties,officer,01:45,28,GAS LEAK,99
+INC404,Critical Zone 4,High rise building collapsed entire wing down people trapped,officer,04:10,32,BUILDING COLLAPSE,99
+INC405,Critical Zone 5,Hospital backup power failed critical patients on ventilator,automated,00:20,15,POWER OUTAGE,91
+INC406,Critical Zone 6,Bus fell off bridge into river multiple people critical,citizen,23:50,24,TRAFFIC INCIDENT,95
+INC407,Critical Zone 7,Mass casualty event explosion injured dozens need triage,officer,22:40,20,MEDICAL EMERGENCY,97
+INC408,Critical Zone 8,Wildfire jumped firebreak heading toward fuel depot,officer,03:30,25,WILDFIRE,96
+INC409,Critical Zone 9,Flood waters breached levee entire district at risk,automated,04:00,29,FLOOD,94
+INC410,Critical Zone 10,Chemical plant fire toxic smoke cloud spreading toward city,officer,02:00,27,GAS LEAK,98

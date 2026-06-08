@@ -1,0 +1,21 @@
+incident_id,location,issue_reported,caller_type,time,call_duration,incident_type,risk_score
+INC1,Sector 14,Massive fire near market with heavy smoke,citizen,22:10,18,WILDFIRE,92
+INC2,River Road,Flood water entered houses and roads blocked,citizen,06:40,24,FLOOD,86
+INC3,Industrial Area,Gas leak reported from chemical plant,officer,19:25,16,GAS LEAK,89
+INC4,Old Town,Building collapse with people trapped,citizen,15:30,20,BUILDING COLLAPSE,95
+INC5,Grid Station,Power outage in multiple blocks,officer,21:45,12,POWER OUTAGE,63
+INC6,Highway 8,Major traffic accident with injuries,citizen,08:20,15,TRAFFIC INCIDENT,74
+INC7,Central Park,Medical emergency heart attack reported,citizen,11:50,9,MEDICAL EMERGENCY,79
+INC8,Sector 3,आग लगी है घर में,citizen,23:05,13,WILDFIRE,90
+INC9,Sector 9,बाढ़ का पानी तेजी से बढ़ रहा है,citizen,05:55,19,FLOOD,88
+INC10,Plant 2,गैस रिसाव की तेज गंध आ रही है,officer,17:40,14,GAS LEAK,87
+INC11,Downtown,Bridge debris and collapse risk high,citizen,13:10,17,BUILDING COLLAPSE,84
+INC12,Sector 22,Electric line trip and full power failure,officer,20:05,10,POWER OUTAGE,61
+INC13,Ring Road,Severe collision traffic jam and ambulance needed,citizen,18:10,14,TRAFFIC INCIDENT,76
+INC14,Sector 17,चोट लगी है तुरंत एम्बुलेंस भेजो,citizen,09:20,8,MEDICAL EMERGENCY,78
+INC15,Sector 11,Smoke and blaze spreading near warehouse,citizen,16:30,11,WILDFIRE,82
+INC16,Riverside,Water overflow flood alert in low area,citizen,07:15,12,FLOOD,80
+INC17,Factory Belt,Toxic gas leak from storage tank,officer,02:20,16,GAS LEAK,91
+INC18,Block C,Old building गिर गया rescue required,citizen,14:45,18,BUILDING COLLAPSE,90
+INC19,East Grid,बिजली पूरी तरह बंद है कई घंटों से,citizen,01:50,7,POWER OUTAGE,57
+INC20,Metro Junction,Multiple vehicle accident causing heavy jam,citizen,17:55,12,TRAFFIC INCIDENT,73
